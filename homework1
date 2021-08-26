@@ -3,3 +3,14 @@
 	{	system.out.print ("Hello world!");
 	}
 }
+
+	HelloWorldApp
+
+import java.applet.Applet:
+import java.awt.*;
+
+	// Applet code for the "Hello, world!" example.
+	// This should be saved in a file named as "HelloWorldApp.java".
+	public class HelloWorldApp extends Applet
+	{ // This method is mandatory, but can be empty (i.e., have no actual code).
+	public void init() {}
